@@ -1,0 +1,499 @@
+body {
+  overflow-x: hidden; }
+
+.logo-img {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  z-index: 2; }
+
+.appName_title {
+  color: #3BCA62;
+  font-size: 40px;
+  font-weight: bold; }
+
+.section-1-bg {
+  overflow: hidden; }
+
+.section-1 {
+  box-sizing: border-box;
+  padding: 60px 10px 0 90px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 660px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center; }
+
+.banner-title {
+  line-height: 100%;
+  font-size: 46px;
+  color: #000;
+  margin-bottom: 44px; }
+
+.banner-para {
+  max-width: 480px;
+  color: #000;
+  font-size: 14px;
+  line-height: 170%; }
+
+.banner-iphone {
+  max-width: 570px;
+  margin-left: 70px; }
+
+.google-play-wrap {
+  margin-top: 48px;
+  display: inline-block;
+  z-index: 2;
+  vertical-align: middle; }
+
+.apk-btn-wrap {
+  margin-top: 48px;
+  display: inline-block;
+  z-index: 2;
+  vertical-align: middle; }
+
+.apk-btn {
+  position: relative;
+  background: url("../../images/home/logo.png") left center no-repeat;
+  background-size: 30px;
+  background-position: 10px;
+  background-color: #000;
+  vertical-align: middle;
+  margin-left: 15px;
+  height: 44px;
+  width: 140px;
+  border-radius: 5px; }
+
+.apk-com {
+  position: absolute;
+  left: 60px;
+  display: inline-block;
+  font-weight: bold;
+  color: #fff; }
+
+.apk-text {
+  position: absolute;
+  left: 60px;
+  display: inline-block;
+  font-weight: bold;
+  color: #fff;
+  font-size: 18px;
+  line-height: 16px;
+  top: 5px; }
+
+.apk-download {
+  position: absolute;
+  left: 60px;
+  display: inline-block;
+  font-weight: bold;
+  color: #fff;
+  font-size: 12px;
+  line-height: 12px;
+  top: 24px; }
+
+.google-play-iphone {
+  text-align: right;
+  position: relative;
+  width: 570px;
+  margin-right: -50px; }
+
+.home-common-bg-wrap {
+  background-color: #f4f3f7; }
+
+.every-sec-title {
+  color: #333;
+  font-size: 36px;
+  line-height: 105%;
+  font-weight: bold; }
+
+.section-2-bg {
+  padding: 120px 0; }
+
+.section-2-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: left;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between; }
+
+.page-title {
+  font-weight: normal;
+  font-size: 36px;
+  color: #f5755c;
+  line-height: 100%;
+  margin: 0;
+  padding: 0 0 40px; }
+
+.de-line {
+  width: 30px;
+  border-bottom: 2px solid #4c5050;
+  margin: 0 0 14px; }
+
+.our-app-para {
+  max-width: 450px;
+  margin: 35px auto 70px;
+  font-size: 18px;
+  color: #999; }
+
+.section-2-right {
+  padding-left: 10px;
+  margin-left: auto; }
+
+.our-app-list {
+  display: inline-block; }
+
+.our-app-subtitle {
+  margin: 0 0 30px;
+  color: #4c5050;
+  text-align: left;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: normal; }
+
+.our-app-subpara, .description {
+  color: #7a8181;
+  font-size: 14px;
+  line-height: 160%;
+  max-width: 480px; }
+
+.description {
+  position: relative;
+  padding-left: 14px; }
+
+.des-list-item {
+  text-align: left;
+  list-style: decimal; }
+
+.our-app-img {
+  max-width: 522px;
+  width: 350px;
+  margin-right: 0;
+  display: inline-block; }
+
+.our-app-list-item {
+  font-size: 14px;
+  color: #fec948;
+  padding: 0;
+  display: inline-block; }
+
+.section-3-bg {
+  padding: 120px 0;
+  background-color: #ebf8fb; }
+
+.section3-subtitle {
+  font-size: 22px;
+  color: #4c5050;
+  line-height: 50px;
+  margin: 20px 0 10px;
+  padding-left: 50px; }
+
+.how-to-loan-para {
+  margin: 0 auto 60px;
+  font-size: 18px;
+  color: #999; }
+
+.sub-para {
+  width: 70%;
+  color: #4c5050;
+  font-size: 14px;
+  line-height: 160%; }
+
+.loan-items {
+  padding: 10px 10px 10px 80px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: left;
+  margin-bottom: 16px;
+  background: #fff; }
+
+.loan-items1 {
+  background: url("../../images/home/1.png") no-repeat left center;
+  background-size: 40px 40px; }
+
+.loan-items2 {
+  background: url("../../images/home/2.png") no-repeat left center;
+  background-size: 40px 40px; }
+
+.loan-items3 {
+  background: url("../../images/home/3.png") no-repeat left center;
+  background-size: 40px 40px; }
+
+.loan-items4 {
+  background: url("../../images/home/4.png") no-repeat left center;
+  background-size: 40px 40px; }
+
+.list-iphone-3 {
+  width: 450px; }
+
+.section-4-bg {
+  margin-top: 60px;
+  background: url("../../images/home/our_partners_bg.png") bottom no-repeat; }
+
+.partners-wrap {
+  background: url("../../images/home/our_partners_bg.png") top center no-repeat;
+  padding: 120px 0 0; }
+
+.partners-title {
+  margin: 0 auto 90px;
+  color: #5c84d9;
+  font-weight: bold; }
+
+.partner-logo-list {
+  padding-bottom: 80px; }
+
+.footer-wrap {
+  margin: 0 auto;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: #333; }
+
+.footer-para {
+  display: block;
+  font-size: 14px;
+  color: #fff5f5;
+  padding: 30px 0;
+  width: 1180px; }
+
+.phone-para {
+  display: none; }
+
+.relative {
+  position: relative; }
+
+.partner-title {
+  line-height: 100%;
+  color: #fff;
+  padding: 0;
+  margin: 0; }
+
+.partner-list {
+  padding: 0 130px 40px; }
+
+.partner-item {
+  height: 40px;
+  margin-bottom: 20px; }
+
+.partner-item-1 {
+  background: url("../../images/home/1tongdun.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-1:hover {
+  background: url("../../images/home/1tongdunlogo_hover.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-2 {
+  background: url("../../images/home/2twilio.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-2:hover {
+  background: url("../../images/home/2twiliologo_hover.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-3 {
+  background: url("../../images/home/3xendit.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-3:hover {
+  background: url("../../images/home/3xendit_hover.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-4 {
+  background: url("../../images/home/4bluepay.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-4:hover {
+  background: url("../../images/home/4bluepaylogo_hover.png") center no-repeat;
+  background-size: contain; }
+
+.partner-item-5 {
+  background: url("../../images/home/5advanceai.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-5:hover {
+    background: url("../../images/home/5advanceAi_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-6 {
+  background: url("../../images/home/6akulaku.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-6:hover {
+    background: url("../../images/home/6akulaku_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-7 {
+  background: url("../../images/home/7face.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-7:hover {
+    background: url("../../images/home/7face_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-8 {
+  background: url("../../images/home/8juxinli.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-8:hover {
+    background: url("../../images/home/8juxinli_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-9 {
+  background: url("../../images/home/9xinghejinrong.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-9:hover {
+    background: url("../../images/home/9xinghejinrong_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-10 {
+  background: url("../../images/home/10partner_facebok.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-10:hover {
+    background: url("../../images/home/10partner_facebok_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-11 {
+  background: url("../../images/home/11partner_infobip.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-11:hover {
+    background: url("../../images/home/11partner_infobip_hover.png") center no-repeat;
+    background-size: contain; }
+
+.partner-item-12 {
+  background: url("../../images/home/12partner_yitu.png") center no-repeat;
+  background-size: contain; }
+  .partner-item-12:hover {
+    background: url("../../images/home/12partner_yitu_hover.png") center no-repeat;
+    background-size: contain; }
+
+.carousel-indicators {
+  bottom: 40px; }
+
+.carousel-indicators li {
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+  height: 8px;
+  width: 30px;
+  margin: 0 10px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border: none; }
+
+.carousel-indicators .active {
+  background-color: #fff;
+  width: 30px;
+  height: 8px;
+  margin: 0 10px; }
+
+@media screen and (max-width: 991px) {
+  .main-container {
+    padding-top: 68px; }
+  .our-app-img {
+    margin: 0 auto; }
+  .section-2-content {
+    text-align: center; }
+  .google-play-iphone {
+    margin: 20px auto;
+    width: 100%; }
+  .banner-iphone {
+    position: relative; } }
+
+@media screen and (max-width: 767px) {
+  .row {
+    margin: 0; }
+  .our-app-para {
+    margin-bottom: 20px; }
+  .section-1-bg {
+    background-size: cover; }
+  .section-1 {
+    display: block;
+    padding: 60px 0 20px;
+    text-align: center;
+    height: auto;
+    background: none; }
+  .title-img {
+    max-width: 90%; }
+  .google-play-wrap {
+    margin-top: 30px;
+    text-align: center; }
+  .apk-btn-wrap {
+    margin-top: 30px; }
+  .banner-title {
+    margin-bottom: 30px;
+    font-size: 30px; }
+  .banner-para {
+    max-width: 100%;
+    padding: 0 15px; }
+  .banner-iphone {
+    max-width: 90%;
+    margin: 0 auto; }
+  .section-2-bg {
+    padding: 40px 0; }
+  .section-2-content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+            flex-direction: column; }
+  .mt50 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+            flex-direction: column-reverse; }
+  .page-title {
+    font-size: 36px; }
+  .our-app-subtitle {
+    margin: 25px 0 18px; }
+  .our-app-img {
+    max-width: 100%;
+    display: block;
+    margin: 30px auto 0; }
+  .section-2-right {
+    padding-left: 15px; }
+  .how-to-loan-para {
+    margin: 15px; }
+  .section-3-bg {
+    padding: 50px 0; }
+  .loan-items {
+    margin-bottom: 20px; }
+  .list-iphone-3 {
+    width: 100%; }
+  .partners-wrap {
+    margin-top: 0;
+    padding: 50px 0 0; }
+  .partners-title {
+    margin-bottom: 30px; }
+  .logo-img {
+    width: 60px; }
+  .footer-para {
+    display: none; }
+  .phone-para {
+    display: block;
+    font-size: 12px;
+    color: #fff;
+    padding: 16px 0;
+    width: 100%; }
+  .partner-wrap {
+    text-align: center;
+    padding: 30px 0 0; }
+  .partner-title {
+    font-size: 26px; }
+  .partner-list-wrap {
+    margin-top: -30px; }
+  .partner-list {
+    padding: 0; }
+  .partner-item {
+    height: 30px;
+    margin-bottom: 20px;
+    margin-right: 0; } }
