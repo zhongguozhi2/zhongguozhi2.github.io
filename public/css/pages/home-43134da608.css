@@ -17,7 +17,7 @@ body {
 
 .section-1 {
   box-sizing: border-box;
-  padding: 60px 10px 0 90px;
+  padding: 60px 0px 0 0px;
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -93,11 +93,11 @@ body {
   line-height: 12px;
   top: 24px; }
 
-.google-play-iphone {
+/* .google-play-iphone {
   text-align: right;
   position: relative;
   width: 570px;
-  margin-right: -50px; }
+  margin-right: -50px; } */
 
 .home-common-bg-wrap {
   background-color: #f4f3f7; }
@@ -185,7 +185,7 @@ body {
 
 .section-3-bg {
   padding: 120px 0;
-  background-color: #ebf8fb; }
+  background-color: #fbebeb; }
 
 .section3-subtitle {
   font-size: 22px;
@@ -419,7 +419,7 @@ body {
     background-size: cover; }
   .section-1 {
     display: block;
-    padding: 60px 0 20px;
+    /* padding: 60px 0 20px; */
     text-align: center;
     height: auto;
     background: none; }
