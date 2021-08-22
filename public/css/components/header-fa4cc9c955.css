@@ -63,7 +63,7 @@
 /*浮动颜色*/
 .bg-white {
   padding: 6px 0;
-  background-color: #9879f2; }
+  background-color: #f27979; }
 
 .active-link {
   color: #fff; }
@@ -84,7 +84,7 @@
     background-color: #2b2b37; }
   .header-wrap {
     height: auto;
-    background: #9879f2; }
+    background: #f27979; }
   .login-wrap {
     width: 100%;
     text-align: center;

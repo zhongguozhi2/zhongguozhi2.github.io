@@ -1,6 +1,15 @@
 body {
   overflow-x: hidden; }
-
+.top1 {
+  margin-left: 75px;
+}
+.top2 {
+  display: flex
+}
+.top3 {
+  width:40%;
+  padding-left: 17px;
+}
 .logo-img {
   position: absolute;
   top: 30px;
@@ -35,7 +44,7 @@ body {
 .banner-para {
   max-width: 480px;
   color: #000;
-  font-size: 22px;
+  font-size: 14px;
   line-height: 170%; }
 
 .banner-iphone {
@@ -44,7 +53,7 @@ body {
 
 .google-play-wrap {
   margin-top: -5px;
-  display: inline-block;
+  /* display: inline-block; */
   z-index: 2;
   vertical-align: middle; }
 
@@ -416,6 +425,15 @@ body {
 @media screen and (max-width: 767px) {
   .row {
     margin: 0; }
+  .top2 {
+    display: unset;
+  }
+  .top3 {
+    width:100%;
+  }
+  .list-inline > li{
+    width:100%;
+  }
   .our-app-para {
     margin-bottom: 20px; }
   .section-1-bg {
@@ -438,7 +456,8 @@ body {
     font-size: 30px; }
   .banner-para {
     max-width: 100%;
-    padding: 0 15px; }
+    padding: 0 15px; 
+    text-align: left;}
   .banner-iphone {
     max-width: 90%;
     margin: 0 auto; }
