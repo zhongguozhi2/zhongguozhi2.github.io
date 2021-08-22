@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: -apple-system,"PingFang SC", BlinkMacSystemFont,Helvetica Neue,Helvetica,Roboto,Arial,PingFang SC,Hiragino Sans GB,Microsoft Yahei,Microsoft Jhenghei,sans-serif, "Hiragino Sans GB","Microsoft YaHei","Wenquanyi Micro Hei", "WenQuanYi Micro Hei Mono","WenQuanYi Zen Hei","WenQuanYi Zen Hei","Apple LiGothic Medium",SimHei, "ST Heiti","WenQuanYi Zen Hei Sharp";
+  font-family: "PingFang SC",-apple-system, BlinkMacSystemFont,Helvetica Neue,Helvetica,Roboto,Arial,PingFang SC,Hiragino Sans GB,Microsoft Yahei,Microsoft Jhenghei,sans-serif, "Hiragino Sans GB","Microsoft YaHei","Wenquanyi Micro Hei", "WenQuanYi Micro Hei Mono","WenQuanYi Zen Hei","WenQuanYi Zen Hei","Apple LiGothic Medium",SimHei, "ST Heiti","WenQuanYi Zen Hei Sharp";
   -webkit-font-smoothing: antialiased;
   margin: 0;
   padding: 0; }

@@ -35,7 +35,7 @@ body {
 .banner-para {
   max-width: 480px;
   color: #000;
-  font-size: 14px;
+  font-size: 22px;
   line-height: 170%; }
 
 .banner-iphone {
@@ -43,7 +43,7 @@ body {
   margin-left: 70px; }
 
 .google-play-wrap {
-  margin-top: 48px;
+  margin-top: -5px;
   display: inline-block;
   z-index: 2;
   vertical-align: middle; }
@@ -214,8 +214,11 @@ body {
   -webkit-align-items: center;
           align-items: center;
   text-align: left;
-  margin-bottom: 16px;
-  background: #fff; }
+  margin-bottom: 5px;
+  border-radius: 60px;
+  background: #fff; 
+  height:300px;
+}
 
 .loan-items1 {
   background: url("../../images/home/1.png") no-repeat left center;
