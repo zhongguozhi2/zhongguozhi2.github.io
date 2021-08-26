@@ -461,7 +461,9 @@ input, button, textarea, select {
   display: inline-block;
   vertical-align: middle;
   padding: 0;
-  margin: 0; }
+  margin: 0; 
+  /* height:250px; */
+}
 
 .align-center {
   display: -webkit-inline-box;
